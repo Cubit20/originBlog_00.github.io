@@ -23,8 +23,6 @@ $space: 20px;
 $mobile-break: 700px;
 $full-width-break: $nav-width + ($space * 4) + $content-max-width;
 
-$space no rgb/black
-test :out-of-range ::grammar-error //sub tis
 
 @import "mixins";
 @import "normalize";
