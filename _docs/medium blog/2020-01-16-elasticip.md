@@ -6,7 +6,8 @@ order: 1
 date: 2020-01-16
 ---
 
-![그림1](/assets/images/mediumBlog/20.01.16-elasticIp/elasticIp_01.jpeg)
+![그림1](./assets/images/mediumBlog/20.01.16-elasticIp/elasticIp_01.jpeg)
+![그림1](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.01.16-elasticIp/elasticIp_01.jpeg)
 
 만약 실수로 또는 더이상 필요하지 않아서 Elastic IP를 해제 (Release) 했을 때 아래와 같은 조건을 충족한다면 해제한 Elastic IP를 복구 할 수 있습니다.
 
