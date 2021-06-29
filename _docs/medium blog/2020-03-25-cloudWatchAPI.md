@@ -64,6 +64,7 @@ SNS 토픽생성
 4. 위에서 입력한 이메일로 전송된 인증메일에서 Confirm subscription 클릭   
 
 ![그림2](/assets/images/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_02.png)
+<img src = "/assets/images/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_02.png">
 
 CloudWatch Events Rule 생성
 
