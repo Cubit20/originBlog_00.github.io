@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-미래에셋자산운용
-category : Git blog
+category : Git Blog
 order : 9
 date: 2017-07-20
 ---

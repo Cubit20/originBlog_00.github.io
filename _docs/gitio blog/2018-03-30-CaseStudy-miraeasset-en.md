@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-Mirae Asset Global Investment(en)
-category : Git blog
+category : Git Blog
 order : 8
 date: 2017-07-20
 ---

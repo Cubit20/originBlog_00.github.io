@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 사전대응활동 ProActive - Cost
-category : Git blog
+category : Git Blog
 order : 10
 date: 2018-08-27
 ---
@@ -28,7 +28,7 @@ date: 2018-08-27
 ### FitCloud ProActive - Cost 서비스
 솔트웨어에서는 매일 비용 정산이 되는 시점에 전일 비용 대비 사용량이 급격히 증가하는 경우를 자동으로 모니터링 하고 있습니다.
 
-고객사의 일 사용 비용이 갑자기 증가하는 경우( 50% 이상 증가시 ) 해당 내용이 자동으로 집계되어 고객이 설정한 이메일 주소로 매일 자동 발송됩니다. ( FitCloud Carepack 가입 고객에 한함)
+고객사의 일 사용 비용이 갑자기 증가하는 경우( 50% 이상 증가시 ) 해당 내용이 자동으로 집계되어 고객이 설정한 이메일 주소로 매일 자동 발송됩니다. ( FitCloud Carepack 가입 고객에 한함 )
 
 솔트웨어의 ProActive - Cost 활동에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 Cloud Conciege 에게 문의 주시기 바랍니다.
 

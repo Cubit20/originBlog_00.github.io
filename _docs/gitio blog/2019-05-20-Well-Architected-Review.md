@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saltware's Well Architected Review
-category : Git blog
+category : Git Blog
 order : 14
 date: 2019-05-20
 ---

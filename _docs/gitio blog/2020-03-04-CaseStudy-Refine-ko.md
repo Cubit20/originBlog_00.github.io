@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-리파인
-category : Git blog
+category : Git Blog
 order : 19
 date: 2020-03-04
 ---

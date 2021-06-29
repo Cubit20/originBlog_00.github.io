@@ -1,9 +1,10 @@
+---
+title: SALTWARE
+---
 
-# SALTWARE
 
 [Saltware 문의하기](https://www.fitcloud.co.kr/contact)
 
-***
 
 ## FITCLOUD Your Cloud Concierge
 
@@ -11,7 +12,6 @@ FitCloud는 솔트웨어의 여러 사업 분야 중 Cloud를 전문으로 하�
 
 [Why Saltware 바로가기](https://fitcloud.co.kr/whySaltware)
 
-***
 
 ### FitCloud Billing
 
@@ -40,8 +40,6 @@ AWS를 사용하면서 필요한 가이드 및 기술 지원 요청을 Ticket �
 
 [Support Desk 바로가기](https://support.fitcloud.co.kr/)
 
-***
-
 ## FitCloud Service
 
 ### Financial Services
@@ -53,7 +51,5 @@ AWS를 사용하면서 필요한 가이드 및 기술 지원 요청을 Ticket �
 ### Contents Delivery
  > 글로벌 CDN 서비스인 Amazon CloudFront를 클라우드의 전면에 배치하여 빠르고 안전하게 콘텐츠를 전송하고 외부로부터의 침해를 방어할 수 있습니다.
 
- ### Well Architected Review
-  > AWS의 Solution Architector들이 워크로드 검토를 수행하는 것을 이제는 Saltware의 전문 SA들이 함께 수행합니다.
-
-***
+### Well Architected Review
+ > AWS의 Solution Architector들이 워크로드 검토를 수행하는 것을 이제는 Saltware의 전문 SA들이 함께 수행합니다.

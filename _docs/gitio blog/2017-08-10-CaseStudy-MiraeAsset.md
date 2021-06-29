@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saltware AWS CaseStudy-미래에셋자산운용
-category : Git blog
+category : Git Blog
 order : 3
 date: 2017-08-10
 ---

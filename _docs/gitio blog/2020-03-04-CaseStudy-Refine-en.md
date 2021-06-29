@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-Refine(en)
-category : Git blog
+category : Git Blog
 order : 18
 date: 2020-03-04
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-Coinnest(en)
-category : Git blog
+category : Git Blog
 order : 6
 date: 2018-03-30
 ---

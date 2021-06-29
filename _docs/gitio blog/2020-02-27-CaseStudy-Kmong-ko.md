@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-크몽
-category : Git blog
+category : Git Blog
 order : 17
 date: 2020-02-27
 ---

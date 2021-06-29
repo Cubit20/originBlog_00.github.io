@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 빠르고 안전한 콘텐츠 전송
-category : Git blog
+category : Git Blog
 order : 13
 date: 2019-02-20
 ---

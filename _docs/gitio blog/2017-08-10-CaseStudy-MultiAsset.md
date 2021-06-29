@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saltware AWS CaseStudy-멀티에셋자산운용
-category : Git blog
+category : Git Blog
 order : 4
 date: 2017-08-10
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS CaseStudy-코인네스트
-category : Git blog
+category : Git Blog
 order : 7
 date: 2018-03-30
 ---

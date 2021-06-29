@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Connect 소개
-category : Git blog
+category : Git Blog
 order : 5
 date : 2017-12-14
 ---
