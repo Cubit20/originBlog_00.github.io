@@ -6,8 +6,7 @@ order : 16
 date: 2020-02-27
 ---
 
-![kmong](../이미지/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_01.png)https://www.kmong.com
-
+![kmong](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_01.png)https://www.kmong.com
 
 #### Customer : Kmong
 
@@ -31,9 +30,9 @@ date: 2020-02-27
  - Log Integrated Monitoring Service Using ElasticSearch Service
 
 
- ![kmong_architecture-1](../이미지/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_02.png)
+![kmong_architecture-1](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_02.png)
 
- ![kmong_architecture-2](../이미지/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_03.png)
+![kmong_architecture-2](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_03.png)
 
 
 #### Agile methodology

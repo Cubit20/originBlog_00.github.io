@@ -6,8 +6,7 @@ order : 8
 date: 2017-07-20
 ---
 
-![miraeasset](../이미지/gitBlog/2018-03-30-CaseStudy-miraeasset-en/CaseStudy-miraeasset-en_01.jpg)https://investments.miraeasset.com
-
+![miraeasset](/assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-en/CaseStudy-miraeasset-en_01.jpg)https://investments.miraeasset.com
 
 #### Customer : Mirae Asset Global Investment
 
@@ -37,7 +36,7 @@ date: 2017-07-20
 
 
 ### Monitoring
-![mirae_monitoring](../이미지/gitBlog/miraeAsset/../2018-03-30-CaseStudy-miraeasset-en/CaseStudy-miraeasset-en_02.jpg)
+![mirae_monitoring](/assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-en/CaseStudy-miraeasset-en_02.jpg)
 - Saltware(as fitCloud) provide monitoring service
 - Provide Real time monitoring for AWS resources.
 - Monitoring composed of indexes representing server performance such as CPU, Memory, Disk, Traffic, etc.
@@ -48,7 +47,7 @@ date: 2017-07-20
 
 
 ### on-premise vs AWS TCO compare
-![mirae_tco](../이미지/gitBlog/2018-03-30-CaseStudy-miraeasset-en/CaseStudy-miraeasset-en_03.jpg)
+![mirae_tco](/assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-en/CaseStudy-miraeasset-en_03.jpg)
 - Through TCO analyzation, we achieved AWS TCO Calculator result indicating possible 91% cost reduction.
 - Analyzation was done in Tokyo Region and Singapore Region.
 - This is a 3 year TCO analyzation result. Even though there are price differences in On-premise server price of Seoul Region, we were able to come up with the discount rate shown in the result by adding operational manpower of the actual data center, electric charge, and extra expenses into the calculation.

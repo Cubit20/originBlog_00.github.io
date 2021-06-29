@@ -6,7 +6,7 @@ order : 3
 date: 2017-08-10
 ---
 
-![miraeasset](../이미지/gitBlog/2017-08-10-CaseStudy-MiraeAsset/CaseStudy-MiraeAsset_01.jpg)https://investments.miraeasset.com
+![miraeasset](/assets/images/gitBlog/2017-08-10-CaseStudy-MiraeAsset/CaseStudy-MiraeAsset_01.jpg)https://investments.miraeasset.com
 
 #### Customer : 미래에셋자산운용 ( Mirae Asset Global Investment ) 
 
@@ -44,5 +44,5 @@ date: 2017-08-10
 
 
 #### Press Release : 2015-07-21
-![cms_fitcl_partnership_03](../이미지/gitBlog/2017-08-10-CaseStudy-MiraeAsset/CaseStudy-MiraeAsset_02.gif)
+![cms_fitcl_partnership_03](/assets/images/gitBlog/2017-08-10-CaseStudy-MiraeAsset/CaseStudy-MiraeAsset_02.gif)
 [[기사 원문 바로가기](http://www.etnews.com/20150721000197)]
