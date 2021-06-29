@@ -40,16 +40,14 @@ AWS를 사용하면서 필요한 가이드 및 기술 지원 요청을 Ticket �
 
 [Support Desk 바로가기](https://support.fitcloud.co.kr/)
 
+
 ## FitCloud Service
 
 ### Financial Services
  > AWS를 이용한 Cloud에 맞는 최적의 Architecture를 금융권 고객에게 제공하여, 시스템 구축 비용 및 운영 비용 절감과 업무 프로세스의 시간을 단축시키는 등 비즈니스의 가치 창출에 전념합니다.
-
 ### Devops
  > 솔트웨어의 DevOps 전문가들은 고객이 AWS 환경에서 자동화된 CI/CD를 구축하여 개발 조직과 운영조직의 간극을 줄이고 서비스에 지장없는 유연한 DevOps 환경을 구성하고 운영할 수 있도록 도와 드립니다.
-
 ### Contents Delivery
  > 글로벌 CDN 서비스인 Amazon CloudFront를 클라우드의 전면에 배치하여 빠르고 안전하게 콘텐츠를 전송하고 외부로부터의 침해를 방어할 수 있습니다.
-
 ### Well Architected Review
  > AWS의 Solution Architector들이 워크로드 검토를 수행하는 것을 이제는 Saltware의 전문 SA들이 함께 수행합니다.
