@@ -1,10 +1,12 @@
 ---
-title: Principle of Least Privilege with IAM Policy
-category: medium blog
-order: 2
+layout: post
+title : Principle of Least Privilege with IAM Policy
+category : medium blog
+order : 2
+date: 2020-01-28
 ---
 
-[그림1]
+![그림1](./이미지/../../이미지/mediumBlog/20.01.28-iamPolicy/iamPolicy_01.jpg)
 
 Principle of Least Privilege, 굳이 직역하자면 최소 권한의 원칙(?)일거 같고, 풀어서 말하자면 특정 임무를 수새항하는 객체에 그 특정 임무를 수행하는데 꼭 필요한 최소한의 권한만 부여 및 허용하는 방법론입니다.
 

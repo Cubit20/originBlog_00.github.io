@@ -1,10 +1,12 @@
 ---
-title: CloudWatch Events로 특정 AWS API 모니터링하기
-category: medium blog
-order: 5
+layout: post
+title : CloudWatch Events로 특정 AWS API 모니터링하기
+category : medium blog
+order : 5
+date: 2020-03-25
 ---
 
-[그림1]
+![그림1](./이미지/mediumBlog/../../../이미지/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_01.jpg)
 
 AWS CloudTrail는 AWS 계정 내에서 수행된 작업들의 API 로그를 기록하고 저장해서 “누가”, “언제", “어떤" 작업을 했는지 확인하고 수집된 로그들을 토대로 보안 분석, 운영 감사, 규정 위반 감사, 비정상적 활동 탐지등을 손쉽게 할수 있는 서비스입니다.
 
@@ -61,7 +63,7 @@ SNS 토픽생성
 3. [Create subscription] → Protocol = Email, Endpoint = 알림 받을 이메일 주소 입력 → [Create subscription]
 4. 위에서 입력한 이메일로 전송된 인증메일에서 Confirm subscription 클릭   
    
-[그림2]
+![그림2](./이미지/mediumbog/../../../이미지/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_02.png)
 
 CloudWatch Events Rule 생성
 
@@ -88,4 +90,4 @@ CloudWatch Events Rule 생성
         }
     }
 
-이메일 말고도 Slack과 연동해서 특정 이벤트에 대한 내용을 실시간으로 받아 볼 수도 있습니다. 관련 내용은 해당 링크에서 확인할 수 있습니다.
+이메일 말고도 Slack과 연동해서 특정 이벤트에 대한 내용을 실시간으로 받아 볼 수도 있습니다. 관련 내용은 해당 [링크](https://github.com/youngwjung/aws-root-account-best-practice#root-%EC%9C%A0%EC%A0%80-%EB%A1%9C%EA%B7%B8%EC%9D%B8-slack-%EC%95%8C%EB%9E%8C-%EC%84%A4%EC%A0%95)에서 확인할 수 있습니다.
